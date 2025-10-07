@@ -1,0 +1,2 @@
+import{C as a}from"./lesson.da911ca6.js";import{v as r,V as u}from"./vendor.7bd6b934.js";import"./axios.98430d30.js";import"./tiptap.5ae55db7.js";document.querySelectorAll("#units").forEach(t=>{const o=r();t.dataset.uuid=o;const e=JSON.parse(t.dataset.units);setTimeout(()=>{new u({el:`#units[data-uuid='${o}']`,render:s=>s(a,{props:{units:e,noShadow:t.dataset.noShadow}})})})});
+//# sourceMappingURL=units.4790c14f.js.map
