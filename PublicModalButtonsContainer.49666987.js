@@ -1,0 +1,2 @@
+import{n as t,p as o}from"./lesson.a44015ca.js";const r={name:"PublicModalButtonsContainer",components:{FlexContainer:o}};var s=function(){var n=this,e=n._self._c;return e("flex-container",{staticClass:"buttons-container",attrs:{direction:n.$screenWidth>480?"row":"column-reverse"}},[n._t("default")],2)},a=[],c=t(r,s,a,!1,null,"52b7c6e3",null,null);const i=c.exports;export{i as P};
+//# sourceMappingURL=PublicModalButtonsContainer.49666987.js.map
