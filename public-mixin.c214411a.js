@@ -1,2 +1,0 @@
-import{V as s,z as i}from"./vendor.7bd6b934.js";import{l as r}from"./index2.528d0f8a.js";import"./axios.98430d30.js";const{app_current_locale:e}=window;s.use(i);const u={methods:{$t(t){return r[e]?r[e][t]||t:r.en[t]||t},$hasAttr(t){if(this.$attrs.hasOwnProperty(t)){if(this.$attrs[t]==="")return t;if(typeof this.$attrs[t]=="boolean")return this.$attrs[t]?t:""}return""}},data(){return{appCurrentLocale:e}},computed:{$screenWidth(){return this.$vssWidth}},watch:{$screenWidth(){this.$forceUpdate()}}};export{u as P};
-//# sourceMappingURL=public-mixin.c214411a.js.map

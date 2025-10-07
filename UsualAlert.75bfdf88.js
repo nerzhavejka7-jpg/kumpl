@@ -1,2 +1,0 @@
-import{n as l}from"./lesson.27384c0b.js";import"./axios.98430d30.js";import"./vendor.7bd6b934.js";import"./tiptap.5ae55db7.js";const s={name:"UsualAlert",props:{styles:{type:Object,default:()=>{}},type:{type:String,default:""},additionalClass:[String,Array]}};var a=function(){var t=this,e=t._self._c;return e("div",{staticClass:"usual-alert",class:[t.additionalClass,t.type],style:t.styles},[t._t("default")],2)},n=[],r=l(s,a,n,!1,null,null,null,null);const c=r.exports;export{c as default};
-//# sourceMappingURL=UsualAlert.75bfdf88.js.map

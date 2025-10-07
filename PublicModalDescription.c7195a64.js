@@ -1,2 +1,0 @@
-import{n}from"./lesson.a44e2551.js";const t={props:{align:{type:String,default:"center"},large:{type:Boolean,default:!1}},name:"PublicModalDescription"};var a=function(){var e=this,l=e._self._c;return l("h3",{staticClass:"public-modal-description",class:{"public-modal-description_large":e.large},style:{textAlign:e.align}},[e._t("default")],2)},s=[],i=n(t,a,s,!1,null,"67842291",null,null);const c=i.exports;export{c as P};
-//# sourceMappingURL=PublicModalDescription.c7195a64.js.map
